@@ -18,10 +18,5 @@
     "razorpay": "^2.8.0",
     "uniqid": "^5.4.0"
   },
-  "devDependencies": {
-    "@babel/cli": "^7.16.0",
-    "@babel/core": "^7.16.5",
-    "@babel/node": "^7.16.5",
-    "@babel/preset-env": "^7.16.5"
-  }
+  "devDependencies": {}
 }
